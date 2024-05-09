@@ -1,4 +1,4 @@
-# booking-app
+# SWP-391-SU2024
 
 ## Getting Started
 
